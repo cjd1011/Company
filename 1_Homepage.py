@@ -15,7 +15,7 @@ st.set_page_config(
 st.title('Welcome to BBIS Corp:chart_with_upwards_trend:')
 st.subheader('Best Business Intelligence Solutions')
 
-st.text("Our company is focused on improve your business performance with technological solutions")
+st.text("Our company is focused on improving your business performance with technological solutions")
 
 
 st.markdown('---')
