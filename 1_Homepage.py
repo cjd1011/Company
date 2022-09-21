@@ -15,6 +15,8 @@ st.set_page_config(
 st.title('Welcome to BBIS Corp:chart_with_upwards_trend:')
 st.subheader('Best Business Intelligence Solutions')
 
+st.sidebar.success("Select a page above.") #añadido para intentar ver todas las hojas
+
 st.text("Our company is focused on improving your business performance with technological solutions")
 
 
