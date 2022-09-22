@@ -12,19 +12,6 @@ import altair as alt #pip install altair
 import plotly.graph_objects as go #pip install plotly
 import streamlit_authenticator as stauth #pip install streamlit-authenticator
 
-st.set_page_config(
-     page_title="Investment Portfolio",
-     page_icon=":moneybag",
-     layout="wide",
-     initial_sidebar_state="expanded",
-     menu_items={
-         'Get Help': 'https://www.extremelycoolapp.com/help',
-         'Report a bug': "https://www.extremelycoolapp.com/bug",
-         'About': "# This is a header. This is an *extremely* cool app!"
-     }
- )
-
-
 st.title("Investment Portfolio")
 
 st.markdown("##")
