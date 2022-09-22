@@ -3,14 +3,14 @@ import pandas as pd #pip install pandas
 import plotly.express as px #pip install plotly-express
 import streamlit as st #pip install streamlit
 
-import datetime #pip install datetime
+#import datetime #pip install datetime
 
 import pickle 
-from pathlib import Path #pip install pathlib
+#from pathlib import Path #pip install pathlib
 
-import altair as alt #pip install altair
+#import altair as alt #pip install altair
 import plotly.graph_objects as go #pip install plotly
-import streamlit_authenticator as stauth #pip install streamlit-authenticator
+#import streamlit_authenticator as stauth #pip install streamlit-authenticator
 
 st.title("Investment Portfolio")
 
