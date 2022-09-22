@@ -5,7 +5,7 @@ import streamlit as st #pip install streamlit
 
 #import datetime #pip install datetime
 
-import pickle 
+#import pickle 
 #from pathlib import Path #pip install pathlib
 
 #import altair as alt #pip install altair
