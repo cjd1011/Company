@@ -41,7 +41,7 @@ with col2:
         
 with col3:        
         
-    st.subheader(" 3. Save and deliver the information")  
+    st.subheader(" 3. Deliver the information")  
     
     st.image("Send.jpg")
 
