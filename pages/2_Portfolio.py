@@ -97,7 +97,7 @@ with col7:
     
 with col8:
 
-    st.subheader(" 1. Investment Opportunities")
+    st.subheader(" 2. Investment Opportunities")
 
     st.image("invest.jpg")
 
@@ -107,7 +107,7 @@ with col8:
     
 with col9:
 
-    st.subheader(" 1. Investment Dashboard")
+    st.subheader(" 3. Investment Dashboard")
 
     st.image("dash.jpg")
 
